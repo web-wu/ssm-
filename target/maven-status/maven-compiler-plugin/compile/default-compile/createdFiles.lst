@@ -1,0 +1,5 @@
+com\w2x\ssm\service\UserService.class
+com\w2x\ssm\entity\User.class
+com\w2x\ssm\controller\UserController.class
+com\w2x\ssm\service\impl\UserServiceImpl.class
+com\w2x\ssm\mapper\UserMapper.class
